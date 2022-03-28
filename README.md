@@ -1,4 +1,5 @@
 Política de Privacidade
+
 O aplicativo Fazenda Fácil foi desenvolvido por Valtency Remígio como projeto de estudo e está disponível para que a comunidade possa fazer consultas pertinentes a irrigação e evapotranspiração de plantas.
 Não coletamos nenhuma informação e respeitamos a lei de proteção de informações pessoais aplicável e de acordo com a seguinte política.
 
